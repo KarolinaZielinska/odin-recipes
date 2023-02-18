@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+    color: blue;
+    text-align: center;
+  }
+
+h1{
+    color: blueviolet;
+    background-color: gainsboro;
+}
+
+ul{
+  background-color: palevioletred;
+}
